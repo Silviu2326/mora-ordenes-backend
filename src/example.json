@@ -1,0 +1,101 @@
+{
+  "extraction": {
+    "fecha_texto": "2026-10-07",
+    "operario_texto": "ANA",
+    "turno": "M",
+    "maquina_texto": "DEMO",
+    "trabajos": [
+      {
+        "bloque": 1,
+        "orden": "DEMO-1",
+        "tipo": "RS",
+        "troquel": "001.01",
+        "unidades_buenas": 2710,
+        "mermas": 99,
+        "actividades": [
+          {
+            "codigo": "PRE",
+            "inicio": "08:00",
+            "fin": "08:10",
+            "total_h_escrito": null
+          },
+          {
+            "codigo": "TIR",
+            "inicio": "08:10",
+            "fin": "08:25",
+            "total_h_escrito": null
+          }
+        ]
+      },
+      {
+        "bloque": 2,
+        "orden": "DEMO-2",
+        "tipo": "RS",
+        "troquel": "002.01",
+        "unidades_buenas": 5949,
+        "mermas": 98,
+        "actividades": [
+          {
+            "codigo": "PRE",
+            "inicio": "08:00",
+            "fin": "08:10",
+            "total_h_escrito": null
+          },
+          {
+            "codigo": "TIR",
+            "inicio": "08:10",
+            "fin": "08:25",
+            "total_h_escrito": null
+          }
+        ]
+      },
+      {
+        "bloque": 3,
+        "orden": "DEMO-3",
+        "tipo": "RS",
+        "troquel": "003.01",
+        "unidades_buenas": 350,
+        "mermas": 97,
+        "actividades": [
+          {
+            "codigo": "PRE",
+            "inicio": "08:00",
+            "fin": "08:10",
+            "total_h_escrito": null
+          },
+          {
+            "codigo": "TIR",
+            "inicio": "08:10",
+            "fin": "08:25",
+            "total_h_escrito": null
+          }
+        ]
+      },
+      {
+        "bloque": 4,
+        "orden": "DEMO-4",
+        "tipo": "RS",
+        "troquel": "004.01",
+        "unidades_buenas": 450,
+        "mermas": 96,
+        "actividades": [
+          {
+            "codigo": "PRE",
+            "inicio": "08:00",
+            "fin": "08:10",
+            "total_h_escrito": null
+          },
+          {
+            "codigo": "TIR",
+            "inicio": "08:10",
+            "fin": "08:25",
+            "total_h_escrito": null
+          }
+        ]
+      }
+    ],
+    "observaciones": "Formulario ficticio para demostración.",
+    "dudas": []
+  },
+  "elapsed_seconds": 0
+}

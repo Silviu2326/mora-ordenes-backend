@@ -1,0 +1,14 @@
+{
+  "name": "mora-ordenes-backend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node --check worker.js && node --check server.mjs",
+    "start": "node server.mjs"
+  }
+}
